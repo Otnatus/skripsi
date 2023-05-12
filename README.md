@@ -5,11 +5,8 @@
 2. Dosen Pembimbing 2: Imam Cholissodin, S.Si., M.Kom.
 
 # Deskripsi
-* Wisata.xlsx
-**Data tersebut merupakan lokasi dan titik koordinat wisata religi yang tersebar di Provinsi Jawa Timur
+* Wisata.xlsx = Data tersebut merupakan lokasi dan titik koordinat wisata religi yang tersebar di Provinsi Jawa Timur
 
-* Lampiran Pengujian Konvergensi.xlsx
-Hasil keseluruhan secara lengkap dari hasil pengujian konvergensi
+* Lampiran Pengujian Konvergensi.xlsx = Hasil keseluruhan secara lengkap dari hasil pengujian konvergensi
 
-* Lampiran Hasil Pengujian Perbandingan.xlsx
-Hasil keseluruhan secara lengkap dari hasil pengujian perbandingan
+* Lampiran Hasil Pengujian Perbandingan.xlsx = Hasil keseluruhan secara lengkap dari hasil pengujian perbandingan
