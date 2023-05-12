@@ -6,7 +6,7 @@
 
 # Deskripsi
 * Wisata.xlsx
-Data tersebut merupakan lokasi dan titik koordinat wisata religi yang tersebar di Provinsi Jawa Timur
+**Data tersebut merupakan lokasi dan titik koordinat wisata religi yang tersebar di Provinsi Jawa Timur
 
 * Lampiran Pengujian Konvergensi.xlsx
 Hasil keseluruhan secara lengkap dari hasil pengujian konvergensi
